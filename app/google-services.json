@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "237356862440",
+    "firebase_url": "https://todoversion1-6fd8b-default-rtdb.firebaseio.com",
+    "project_id": "todoversion1-6fd8b",
+    "storage_bucket": "todoversion1-6fd8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237356862440:android:6fd03aeccfb43d0175b25d",
+        "android_client_info": {
+          "package_name": "com.websarva.wings.android.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbgN_ilF_1XzrWa71VVecaFMIDTOcbnDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
